@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Adivinhe o Número</string>
+
+    <string name="str_play">Jogar</string>
+
+    <string name="str_config">Configurações</string>
+
+    <string name="str_config_theme">Tema</string>
+    <string name="str_theme_option_light">Claro</string>
+    <string name="str_theme_option_dark">Escuro</string>
+
+    <string name="str_config_digits">Número de Digitos</string>
+    <string name="str_digits_option_one">01</string>
+    <string name="str_digits_option_two">02</string>
+    <string name="str_digits_option_three">03</string>
+
+    <string name="str_config_attempts">Número de Tentativas</string>
+    <string name="str_attempts_option_five">05</string>
+    <string name="str_attempts_option_ten">10</string>
+    <string name="str_attempts_option_fifteen">15</string>
+
+    <string name="str_credits">Créditos</string>
+    <string name="str_credits_name">Julio Cesar Costa Rodrigues</string>
+    <string name="str_credits_version">V1.0 - Mai/2025</string>
+
+    <string name="str_back">Voltar</string>
+
+    <string name="str_no_number_one_digit">9</string>
+    <string name="str_no_number_two_digit">99</string>
+    <string name="str_no_number_three_digit">999</string>
+
+    <string name="str_generate_number">Gerar Número</string>
+
+    <string name="str_hint">Dica</string>
+
+    <string name="str_hint_number">999</string>
+
+    <string name="str_hints_no_number">Gere um Número</string>
+    <string name="str_hints_greater_number">O Número é Maior</string>
+    <string name="str_hints_smaller_number">O Número é Menor</string>
+
+    <string name="str_quantity_attempts">00/00 Tentativas</string>
+
+    <string name="str_restart">Reiniciar</string>
+</resources>

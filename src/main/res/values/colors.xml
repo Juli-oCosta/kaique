@@ -1,0 +1,14 @@
+<resources>
+    <!-- Cores comuns -->
+    <color name="colorPrimary">#FFDCC6A0</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <!-- Tema claro -->
+    <color name="background_light">#FFFFFDF9</color>
+    <color name="surface_light">#FFFAF2E9</color>
+
+    <!-- Tema escuro -->
+    <color name="background_dark">#120E0A</color>
+    <color name="surface_dark">#FF3A3228</color>
+</resources>
